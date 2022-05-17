@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Shared Preferences</string>
+    <string name="save"><![CDATA[<string name=\"save\"><save</string>]]></string>
 </resources>
